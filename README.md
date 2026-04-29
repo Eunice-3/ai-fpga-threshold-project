@@ -8,9 +8,7 @@ Sensor Input → FPGA Logic (Simulated) → AI Model → Decision
 
 System Diagram
 
-<p align="center">
-  <img src="your-image-link.png" width="500">
-</p>
+https://chatgpt.com/s/m_69f26ae0fcb08191b1447ece345b3361
 
 ## Features
 - Simulated FPGA threshold logic
