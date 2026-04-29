@@ -8,7 +8,8 @@ Sensor Input → FPGA Logic (Simulated) → AI Model → Decision
 
 System Diagram
 
-https://raw.githubusercontent.com/YourUsername/ai-fpga-threshold-project/main/your-image.png
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/d634d6c8-9181-4714-b041-4466c9c1f668" />
+
 
 ## Features
 - Simulated FPGA threshold logic
