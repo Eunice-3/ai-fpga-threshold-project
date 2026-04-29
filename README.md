@@ -8,9 +8,8 @@ Sensor Input → FPGA Logic (Simulated) → AI Model → Decision
 
 System Diagram
 
-<p align="center">
-  <img src="YOUR_RAW_LINK" width="350">
-</p>
+<img width="278" height="381" alt="image" src="https://github.com/user-attachments/assets/c97f0d3f-ae05-4680-99f6-7f8e5c3fd0cb" />
+
 
 
 ## Features
