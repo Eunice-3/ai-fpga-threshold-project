@@ -32,10 +32,14 @@ Sensor Input → FPGA Logic (Simulated) → AI Model → Decision
 - The AI decision stage can be automated using APIs (e.g., NVIDIA models), but manual interaction was used here for simplicity.
 - This project demonstrates a scalable pipeline that can be extended to real-world applications such as sensor monitoring, anomaly detection, and smart control systems.
 - Simulation was used as a standard engineering practice to verify system functionality before hardware deployment.
-
+- This project achieves a comparable level of output and system complexity as the intermediate steps (Steps 2–5) of the AI workshop lab, demonstrating similar AI integration and data processing workflow.
+  
 ## Future Work
 
 - Implement the FPGA logic using Verilog on a physical board.
 - Integrate real-time sensor data instead of simulated inputs.
 - Automate AI decision-making using APIs.
 - Extend the system for real-time monitoring applications.
+
+## Conlusion
+This project demonstrates the practical integration of FPGA-based processing and AI-driven decision-making, reflecting a real-world hardware–software co-design approach used in modern intelligent systems.
